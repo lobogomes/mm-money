@@ -18,7 +18,7 @@
   </a>
     
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/lobogomes">
     <img alt="Develop by Amanda" src="https://img.shields.io/badge/develop%20by-Amanda Lobo-%237519C1">
   </a>
   
