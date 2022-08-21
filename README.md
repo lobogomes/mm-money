@@ -38,6 +38,25 @@
 
 ---
 
+## 🎨 Design
+
+The application layout is available in Figma:
+
+<p align="center">
+	<a href="https://www.figma.com/file/HKH9EMB1s2ckdzp0H1ZWv0/mm-money?node-id=0%3A1">
+  	<img alt="Made by amandalobo" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+	</a>
+</p>
+
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="mm money" title="mm money" src="src/assets/dash-figma.svg" width="400px">
+
+  <img alt="mm money" title="mm money" src="src/assets/modal-figma.svg" width="400px">
+</p>
+
+---
+
 ## 🚀 Execute
 
 ### Prerequisites
